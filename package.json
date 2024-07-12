@@ -1,16 +1,17 @@
 {
   "name": "backend-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is backend in javascript",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Esub Vali Sayyed",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
   }
 }
